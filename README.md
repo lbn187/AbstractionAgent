@@ -1,3 +1,14 @@
+## Citation
+
+```bibtex
+@inproceedings{li2026abstraction,
+  title={Abstraction Agent: LLM-Guided Abstraction for Imperfect-Information Games},
+  author={Li, Boning and Huang, Longbo},
+  booktitle={Findings of the Empirical Methods in Natural Language Processing},
+  year={2026}
+}
+```
+
 # Abstraction Agent
 
 Code for the EMNLP 2026 Findings paper **"Abstraction Agent: LLM-Guided
@@ -80,14 +91,3 @@ result.bucket_map   # {holding: bucket_id}
 LLM responses are cached under `./cache/` (override with the
 `ABSTRACTION_AGENT_CACHE` environment variable), so re-runs with the same
 model and holdings are free.
-
-## Citation
-
-```bibtex
-@inproceedings{li2026abstraction,
-  title={Abstraction Agent: {LLM}-Guided Abstraction for Imperfect-Information Games},
-  author={Li, Boning and Huang, Longbo},
-  booktitle={Findings of the Empirical Methods in Natural Language Processing},
-  year={2026}
-}
-```
