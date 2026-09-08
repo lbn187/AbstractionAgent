@@ -29,8 +29,6 @@ no game-tree traversal. It runs in four phases:
    buckets with multi-restart k-means.
 
 The output is an abstraction scheme (`bucket_map`: holding -> bucket id).
-Downstream game solving and exploitability evaluation are out of scope for
-this repository.
 
 ## Layout
 
