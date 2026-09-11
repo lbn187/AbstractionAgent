@@ -1,5 +1,7 @@
 # Abstraction Agent
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 Code for the EMNLP 2026 Findings paper **"Abstraction Agent: LLM-Guided
 Abstraction for Imperfect-Information Games"** (Boning Li, Longbo Huang).
 
